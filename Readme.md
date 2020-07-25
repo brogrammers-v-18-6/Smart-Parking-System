@@ -45,4 +45,8 @@ Prototype 1             |  Prototype 2             |  Prototype 3
 :----------------------:|:------------------------:|:------------------------:
 ![](prot1.jpg)  |  ![](prot2.jpg)  |  ![](prot3.jpg)
 
+### Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IArla3dv4Q8/0.jpg)](https://www.youtube.com/watch?v=IArla3dv4Q8)
+
 
