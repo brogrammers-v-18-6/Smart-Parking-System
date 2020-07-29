@@ -1,7 +1,7 @@
 # <u>**Smart Parking System**</u>
 *PRANVEER SINGH INSTITUE OF TECHNOLOGY*
 ### Department of Computer Science & Engineering | PSIT Kanpur Uttar Pradesh India
-### **ASHUTOSH VERMA | AVANISH JAISWAL | AYUSH KESHARWANI | AYUSH MOHAN AWASTHI | AYUSH SINGH** 
+### **ASHUTOSH VERMA | AVANISH JAISWAL | AYUSH KESARWANI | AYUSH MOHAN AWASTHI | AYUSH SINGH** 
 
 ## Abstract
 <p>Today, half of the population is living in the urban areas. So as urbanization is increasing we need more convenient way of transportation. One of the problem related to the transportation is unavailability of parking space. Most of the time drivers find difficulties in parking their vehicle at the peak hours, which leads to the problems such as fuel wastage as well as environmental pollution. In our proposed smart parking system, we are going to try to overcome these problems using Arduino and IR sensors in each lane and display the result on the user interface device, which helps driver to find the vacant parking slots more conveniently. </p>
