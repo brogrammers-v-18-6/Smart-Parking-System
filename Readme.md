@@ -28,7 +28,7 @@
 >> - Customers are happier because they can find spaces quickly and easily.
 >> - Less time spent on parking results in more time to use your services.
 >> - Traffic flow improves, saving time and increasing safety.
->> - Space available gets maximum use
+>> - Space available gets maximum use 
 
 
 ### Applications
