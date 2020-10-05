@@ -23,6 +23,7 @@
 >> - Streets are safer-drivers not distracted by hunting for spaces
 >> - Drivers less stress and have more time to do things other than parking.
 >> - Best possible use of available space
+>> - Helps in Bulding Smart Local City
 
 > Off Street
 >> - Customers are happier because they can find spaces quickly and easily.
